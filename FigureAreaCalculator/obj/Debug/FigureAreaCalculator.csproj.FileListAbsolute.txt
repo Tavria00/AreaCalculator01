@@ -1,0 +1,11 @@
+C:\Users\Home\source\repos\AreaCalculator\FigureAreaCalculator\bin\Debug\FigureAreaCalculator.exe
+C:\Users\Home\source\repos\AreaCalculator\FigureAreaCalculator\bin\Debug\FigureAreaCalculator.pdb
+C:\Users\Home\source\repos\AreaCalculator\FigureAreaCalculator\bin\Debug\AreaCalculator.dll
+C:\Users\Home\source\repos\AreaCalculator\FigureAreaCalculator\bin\Debug\AreaCalculator.pdb
+C:\Users\Home\source\repos\AreaCalculator\FigureAreaCalculator\obj\Debug\FigureAreaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\AreaCalculator\FigureAreaCalculator\obj\Debug\FigureAreaCalculator.Form1.resources
+C:\Users\Home\source\repos\AreaCalculator\FigureAreaCalculator\obj\Debug\FigureAreaCalculator.Properties.Resources.resources
+C:\Users\Home\source\repos\AreaCalculator\FigureAreaCalculator\obj\Debug\FigureAreaCalculator.csproj.GenerateResource.Cache
+C:\Users\Home\source\repos\AreaCalculator\FigureAreaCalculator\obj\Debug\FigureAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\AreaCalculator\FigureAreaCalculator\obj\Debug\FigureAreaCalculator.exe
+C:\Users\Home\source\repos\AreaCalculator\FigureAreaCalculator\obj\Debug\FigureAreaCalculator.pdb
